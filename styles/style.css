@@ -11,6 +11,15 @@ html {
 	color: white;
 }
 
+#nf-title {
+	font-size: 8em;
+	color: white;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
 .social-container {
 	margin-top: 100px;
 	text-align: center;
